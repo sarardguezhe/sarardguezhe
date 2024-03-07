@@ -5,6 +5,7 @@
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey!%20I'm%20Sara&section=header&reversal=false&fontAlignY=37&desc=A%20passionate%20junior%20full-stack%20developer%20from%20Spain&fontSize=42&descSize=18&descAlignY=55)
 
+- I'm currently looking for a new job opportunity where I can grow professionally and continue developing my skills to contribute to innovative projects.
 - 🌱 I’m currently learning **more things**
 
 ### Contact me on [LinkedIn](https://www.linkedin.com/in/sara-rodriguez-herrero/) and let's keep coding together!🚀
