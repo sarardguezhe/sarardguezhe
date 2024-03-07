@@ -7,10 +7,10 @@
 
 - ✨ Mixing **design** and **functionality**
 - 💭 Interested in **GenAI** and **Green Tech**
-- 🌱 Constantly learning, now I'm focused on improving my skills in **Next.js** and **testing**
+- 🌱 Constantly learning, now focused on improving my skills in **Next.js** and **testing**
 - 👩‍💻 Currently looking for a **job opportunity** where I can grow professionally and contribute to innovative projects.
 
-#### Contact me on [LinkedIn](https://www.linkedin.com/in/sara-rodriguez-herrero/) and let's keep coding together!🚀
+#### Contact me on [LinkedIn](https://www.linkedin.com/in/sara-rodriguez-herrero/) and let's code the future together!🚀
 
 ---
 
