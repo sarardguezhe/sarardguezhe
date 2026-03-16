@@ -43,6 +43,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+### PROJECTS
+
+#### Reciper (demo)
+
+<a href="https://reciper-demo.vercel.app/" target="_blank">
+  <img src="public/home_reciper.png" alt="Home" width="300">
+</a>
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarardguezhe&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="sarardguezhe" />
 -->
