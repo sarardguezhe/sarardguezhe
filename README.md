@@ -3,13 +3,13 @@
 
 ### A passionate junior full-stack developer from Spain.
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=18&text=Hey!%20I'm%20Sara&section=header&reversal=false&fontAlignY=37&desc=A%20passionate%20junior%20full-stack%20developer%20from%20Spain&fontSize=42&descSize=18&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=18&text=Hey!%20I'm%20Sara&section=header&reversal=false&fontAlignY=37&desc=A%20junior%20full-stack%20developer%20from%20Spain&fontSize=42&descSize=18&descAlignY=55)
 
 - ✨ Mixing **design** and **functionality**
 - 🌱 Constantly learning, now focused on improving my skills in **Next.js** and **testing**
 - 👩‍💻 Currently looking for a **job opportunity** where I can grow professionally and contribute to innovative projects.
 
-#### Contact me on [LinkedIn](https://www.linkedin.com/in/sara-rodriguez-herrero/) and let's code together!🚀
+#### Contact me on [LinkedIn](https://www.linkedin.com/in/sara-rodriguez-herrero/)!
 
 ---
 
