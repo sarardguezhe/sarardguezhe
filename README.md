@@ -6,7 +6,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=18&text=Hey!%20I'm%20Sara&section=header&reversal=false&fontAlignY=37&desc=A%20junior%20full-stack%20developer%20from%20Spain&fontSize=42&descSize=18&descAlignY=55)
 
 - ✨ Mixing **design** and **functionality**
-- 🌱 Constantly learning, now focused on improving my skills in **Next.js** and **testing**
+- 🌱 Constantly learning
 - 👩‍💻 Currently looking for a **job opportunity** where I can grow professionally and contribute to innovative projects.
 
 #### Contact me on [LinkedIn](https://www.linkedin.com/in/sara-rodriguez-herrero/)!
@@ -25,7 +25,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD1100?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### Back-end
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
