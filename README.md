@@ -5,9 +5,11 @@
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=18&text=Hey!%20I'm%20Sara&section=header&reversal=false&fontAlignY=37&desc=A%20junior%20full-stack%20developer%20from%20Spain&fontSize=42&descSize=18&descAlignY=55)
 
-- ✨ Focused on building responsive web apps with React, Node.js and MongoDB
-- 💡 Interested in frontend development, UX and clean code
+- ✨ Building full-stack web applications with React, Node.js and MongoDB (MERN)
+- 🚀 Developed Reciper, a MERN app with authentication and REST API
+- 🤝 Participating in MentorGym, a collaborative project with a real product focus
 - 👩‍💻 Currently looking for a **job opportunity** where I can contribute and grow as a junior developer
+
 
 #### 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/sara-rodriguez-herrero/)
 
